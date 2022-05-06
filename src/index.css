@@ -1,13 +1,111 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+  
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+  .dummy-container {
+    height: 100vh;
+    width: 550px;
+    background-color: #286EFA;
+    float: right;
+    top: 0px;
+  }
+  .dummy-heading {
+    height: 38px;
+    width: 340px;
+    color: #FFFFFF;
+    font-family: Arial, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    letter-spacing: 0.26px;
+    line-height: 38px;
+    position: relative;
+    top: 250px;
+    left: 80px;
+    text-align: center;
+    align-self: center;
+  }
+
+  .dummy-para{
+    position: relative;
+    top: 300px;
+    left: 100px;
+    height: 149px;
+    width: 340px;
+    color: #FFFFFF;
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-size: 18px;
+    letter-spacing: 0.26px;
+    line-height: 30px;
+    align-items: center;
+  }
+
+  
+
+  .form-container{
+    height: 518px;
+    width: 500px;
+    position: relative;
+    top: 109px;
+    left: 150px;
+    right: 492px;
+    bottom: 144px;
+    font-family: Arial, sans-serif;
+  }
+
+  .account{
+    font-size: 15px;
+  }
+  .message{
+    font-size: 12px;
+    color: #F53C3C;
+  }
+
+  p{
+    font-size: 13px;
+  }
+  span{
+    color: #286EFA;
+    font-weight: bold;
+  }
+  
+  i{
+    position: absolute;
+  }
+
+  .name-container{
+  height: 50px;
+  width: 480px;
+  border-radius: 4px;
+  border: 1px solid #EDEDED;
+  }
+
+  .button{
+    width:480px;
+    height: 50px;
+    color: #AAAAAA;
+    font-weight: bold;
+    border-radius: 4px;
+    border: none;
+  }
+
+  .button:hover{
+    background-color: #286EFA;
+    color: #FFFFFF;
+  }
+  
+   input{
+  height: 30px;
+  width: 450px;
+  position:relative;
+  top: 5px;
+  border: none;
+  } 
+
+  .footer{
+    color: #2e2d2d;
+    font-size: 13px;
+  }
+
+  
+  
+  
+  

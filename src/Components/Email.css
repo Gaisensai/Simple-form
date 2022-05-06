@@ -1,0 +1,12 @@
+.email-container{
+        height: 50px;
+        width: 480px;
+        border-radius: 4px;
+        border: 1px solid #ebe3e3;
+        background-color: white;
+}
+
+.message{
+    font-size: 12px;
+    color: #F53C3C;
+}
